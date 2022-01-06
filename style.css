@@ -1,0 +1,125 @@
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+}
+h1 {
+  font-size: 40px;
+}
+h2 {
+  font-size: 30px;
+}
+.year {
+  color: orange;
+}
+.flex-container {
+  display: flex;
+  margin-bottom: 130px;
+}
+.halfwidth {
+  width: 50%;
+  padding-left: 3%;
+}
+.halfwidth img {
+  width: 80%;
+}
+.e-btn {
+  text-decoration: none;
+  background-color: #d80a0a;
+  color: white;
+  font-weight: bold;
+  padding: 12px 40px;
+  border-radius: 5px;
+}
+.focus {
+  margin-left: 0.5px;
+  border-left: 4px solid;
+  border-image: linear-gradient(green, blue);
+  border-image-slice: 1;
+}
+.missionheading {
+  text-align: center;
+}
+.second-section {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.my-mission {
+  width: 100%;
+  margin-left: 2%;
+  margin-right: 2%;
+  padding-left: 20px;
+  background-color: #8de6f1;
+  border-radius: 30px;
+}
+.my-mission-img img {
+  width: 50%;
+}
+.my-vision {
+  width: 100%;
+  margin-left: 2%;
+  margin-right: 2%;
+  padding-left: 20px;
+  background-color: #f34d4d;
+  border-radius: 30px;
+}
+.my-vision-img img {
+  width: 50%;
+}
+.my-goal {
+  width: 100%;
+  margin-left: 2%;
+  margin-right: 2%;
+  padding-left: 20px;
+  background-color: #eccc74;
+  border-radius: 30px;
+}
+
+.my-goal-img img {
+  width: 50%;
+}
+
+.halfwidth img {
+  margin-left: 10%;
+}
+.dev-des {
+  margin-right: 5%;
+}
+.dev-btn {
+  text-decoration: none;
+  background-color: #d80a0a;
+  color: white;
+  font-weight: 700;
+  padding: 12px 40px;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.corona-heading {
+  text-align: center;
+}
+.corona {
+  color: orange;
+}
+.span-corona {
+  color: orange;
+}
+.corona-des {
+  margin-right: 5%;
+}
+footer {
+  background-color: rgb(87, 82, 82);
+  color: white;
+  text-align: center;
+  height: 140px;
+  padding: 15px;
+}
+
+footer h1 {
+  text-align: center;
+}
+footer h1 span {
+  color: #df1010;
+}
+footer p {
+  text-align: center;
+}
